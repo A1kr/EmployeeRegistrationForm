@@ -1,2 +1,6 @@
 # EmployeeRegistrationForm
-This is spimple Employee Registration form using SpringBoot
+This is simple Employee Registration form using SpringBoot done by Khalid(LYA21010)
+
+#Installation
+To create database name as EmpRegForm
+
